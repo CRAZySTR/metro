@@ -26,5 +26,5 @@ import './features/metro';
 ## 3. Розташувати файл metro.js суворо: ##
 NAME | PATCH
 ------------- | -------------
-serverside  | packages\modules\methods.js
+serverside  | packages\modules\metro.js
 clientside  | handlers\src\features\metro.js
